@@ -1,1 +1,3 @@
 non trasnferrable file
+transferrable not allowed
+
